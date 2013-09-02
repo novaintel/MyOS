@@ -1,0 +1,11 @@
+# Compiled Sources #
+####################
+
+*.o
+*.bin
+*.iso
+
+#  Directories     #
+####################
+
+isodir/
